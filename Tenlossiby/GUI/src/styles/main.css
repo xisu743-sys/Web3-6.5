@@ -836,7 +836,7 @@ body {
     display: block;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1400px) {
     .left-sidebar {
         display: none;
     }
